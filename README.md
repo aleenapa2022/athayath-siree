@@ -28,30 +28,61 @@ For Software:
 - Languages: HTML, CSS, JavaScript
 - Frameworks: React.js (optional; can be done with Vanilla JS)
 - For UI animations: Animate.css or GreenSock (GSAP)
-
-For social sharing buttons: react-share or custom JS
+  For social sharing buttons: react-share or custom JS
 - Code editor (VS Code, Sublime Text, etc.)
-
-JSON files for excuse data storage
-
-Browser developer tools for testing and debugging
+ JSON files for excuse data storage
+ Browser developer tools for testing and debugging
 For Hardware:
 - No special hardware required — runs on any modern desktop or mobile device with a web browser
+-Specifications:Responsive design for desktop and mobile screens
+Lightweight to run smoothly even on low-end devices
+- Tools Required:Internet connection for accessing web app (if hosted online)
+Optional: local server like Live Server extension for local testing
+
 
 ### Implementation
-For Software:
+-for software:
+Setup Project Structure:
+Create HTML layout with title, language selector, category filters, mode toggle, generate button, and excuse display area. Link CSS and JS files.
+
+Build UI Components:
+Add language dropdown (English, Malayalam, Manglish), category buttons, mode toggle (Believable / Less Believable), generate button, animated excuse display, copy & share buttons.
+
+Prepare Excuse Database:
+Store categorized excuses by language and mode in JSON or JS object.
+
+Excuse Generation Logic:
+On generate click, get current selections, filter excuses, pick one randomly, and show with animation and sound.
+
+Extra Features:
+Loading animation, sound effects, responsive design for mobiles.
+
+Testing & Debugging:
+Verify all toggles, filtering, copy/share functions, and UI responsiveness.
+
+Deployment:
+Publish static site on GitHub Pages, Netlify, or Vercel
 # Installation
-[commands]
+# Clone repo
+git clone <repository-url>
+cd assignment-excuse-generator
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
 
 # Run
-[commands]
+cd assignment-excuse-generator
+npm start
+Then open http://localhost:3000 in your browser.
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 ![Screenshot2](Add screenshot 2 here with proper name)
 Add caption explaining what this shows
