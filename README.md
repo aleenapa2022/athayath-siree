@@ -20,20 +20,23 @@ Students everywhere face the devastating challenge of coming up with creative ex
 We’ve built the ultimate Excuse Generator — a magical button that spits out the weirdest, funniest, and most unbelievable reasons for your assignment’s tardiness. Whether your WiFi decided to switch colleges or a time-traveling goat ate your homework, our app has got your back with excuses so wild, even your professor might laugh!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We’ve built the ultimate Excuse Generator — a magical button that spits out the weirdest, funniest, and most unbelievable reasons for your assignment’s tardiness. Whether your WiFi decided to switch colleges or a time-traveling goat ate your homework, our app has got your back with excuses so wild, even your professor might laugh!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages: HTML, CSS, JavaScript
+- Frameworks: React.js (optional; can be done with Vanilla JS)
+- For UI animations: Animate.css or GreenSock (GSAP)
 
+For social sharing buttons: react-share or custom JS
+- Code editor (VS Code, Sublime Text, etc.)
+
+JSON files for excuse data storage
+
+Browser developer tools for testing and debugging
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- No special hardware required — runs on any modern desktop or mobile device with a web browser
 
 ### Implementation
 For Software:
