@@ -9,9 +9,9 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aleena P A - Sahrdaya College of Engineering and Technology
+- Member 2: Ananya Rose - Sahrdaya College of Engineering and Technology
+
 
 ### Project Description
 Students everywhere face the devastating challenge of coming up with creative excuses for late assignments — because obviously, “my dog ate it” is just too mainstream. Without a reliable source of absurd yet believable excuses, procrastinators suffer in silence, struggling to keep their stories fresh and entertaining!
