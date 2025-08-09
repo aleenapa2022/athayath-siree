@@ -41,26 +41,26 @@ Optional: local server like Live Server extension for local testing
 
 
 ### Implementation
--for software:
-Setup Project Structure:
+for software:
+-Setup Project Structure:
 Create HTML layout with title, language selector, category filters, mode toggle, generate button, and excuse display area. Link CSS and JS files.
 
-Build UI Components:
+-Build UI Components:
 Add language dropdown (English, Malayalam, Manglish), category buttons, mode toggle (Believable / Less Believable), generate button, animated excuse display, copy & share buttons.
 
-Prepare Excuse Database:
+-Prepare Excuse Database:
 Store categorized excuses by language and mode in JSON or JS object.
 
-Excuse Generation Logic:
+-Excuse Generation Logic:
 On generate click, get current selections, filter excuses, pick one randomly, and show with animation and sound.
 
-Extra Features:
+-Extra Features:
 Loading animation, sound effects, responsive design for mobiles.
 
-Testing & Debugging:
+-Testing & Debugging:
 Verify all toggles, filtering, copy/share functions, and UI responsiveness.
 
-Deployment:
+-Deployment:
 Publish static site on GitHub Pages, Netlify, or Vercel
 # Installation
 # Clone repo
@@ -75,55 +75,35 @@ npm start
 
 # Run
 cd assignment-excuse-generator
+
 npm start
+
 Then open http://localhost:3000 in your browser.
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+# Screenshots 
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/aleenapa2022/athayath-siree/blob/main/Screenshot%202025-08-09%20042626.png" />
+
+
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/aleenapa2022/athayath-siree/blob/main/Screenshot%202025-08-09%20042729.png"/>
+
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/aleenapa2022/athayath-siree/blob/main/Screenshot%202025-08-09%20042815.png"/>
 
 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-Add caption explaining what this shows
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Add caption explaining your workflow
 
-For Hardware:
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-Add caption explaining connections
-
-![Schematic](Add your schematic diagram here)
-Add caption explaining the schematic
-
-# Build Photos
-![Components](Add photo of your components here)
-List out all components shown
-
-![Build](Add photos of build process here)
-Explain the build steps
-
-![Final](Add photo of final product here)
-Explain the final build
-
-### Project Demo
-# Video
-[Add your demo video link here]
-Explain what the video demonstrates
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Aleena P A]: [Designed and implemented the responsive UI with language selectors, category filters, and mode toggles.
+
+Developed the animated excuse display and integrated copy-to-clipboard and social sharing features]
+- [Ananya Rose]: [Created and structured the multilingual excuse database in JSON format with categorized and mode-based entries.
+
+Implemented the excuse generation logic to filter and randomly select excuses based on user input.]
 
 ---
 Made with ❤ at TinkerHub Useless Projects 
