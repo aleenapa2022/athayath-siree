@@ -83,7 +83,6 @@ npm start
 Then open http://localhost:3000 in your browser.
 
 ### Project Documentation
-For Software:
 
 # Screenshots 
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/aleenapa2022/athayath-siree/blob/main/Screenshot%202025-08-09%20042626.png" />
@@ -102,12 +101,12 @@ https://athayath-siree-git-main-aleenas-projects-4b4b1637.vercel.app/
 
 
 ## Team Contributions
-- Aleena P A: [Designed and implemented the responsive UI with language selectors, category filters, and mode toggles.
+- Aleena P A: Designed and implemented the responsive UI with language selectors, category filters, and mode toggles.
 
-Developed the animated excuse display and integrated copy-to-clipboard and social sharing features]
-- Ananya Rose: [Created and structured the multilingual excuse database in JSON format with categorized and mode-based entries.
+Developed the animated excuse display and integrated copy-to-clipboard and social sharing features
+- Ananya Rose: Created and structured the multilingual excuse database in JSON format with categorized and mode-based entries.
 
-Implemented the excuse generation logic to filter and randomly select excuses based on user input.]
+Implemented the excuse generation logic to filter and randomly select excuses based on user input.
 
 ---
 Made with ❤ at TinkerHub Useless Projects 
