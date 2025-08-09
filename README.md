@@ -25,6 +25,7 @@ We’ve built the ultimate Excuse Generator — a magical button that spits out 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
+
 - Languages: HTML, CSS, JavaScript
 - Frameworks: React.js (optional; can be done with Vanilla JS)
 - For UI animations: Animate.css or GreenSock (GSAP)
@@ -41,7 +42,8 @@ Optional: local server like Live Server extension for local testing
 
 
 ### Implementation
-for software:
+For Software:
+
 -Setup Project Structure:
 Create HTML layout with title, language selector, category filters, mode toggle, generate button, and excuse display area. Link CSS and JS files.
 
@@ -98,10 +100,10 @@ For Software:
 
 
 ## Team Contributions
-- [Aleena P A]: [Designed and implemented the responsive UI with language selectors, category filters, and mode toggles.
+- Aleena P A: [Designed and implemented the responsive UI with language selectors, category filters, and mode toggles.
 
 Developed the animated excuse display and integrated copy-to-clipboard and social sharing features]
-- [Ananya Rose]: [Created and structured the multilingual excuse database in JSON format with categorized and mode-based entries.
+- Ananya Rose: [Created and structured the multilingual excuse database in JSON format with categorized and mode-based entries.
 
 Implemented the excuse generation logic to filter and randomly select excuses based on user input.]
 
